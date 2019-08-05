@@ -11,6 +11,7 @@ import numpy as np
 LANE_WIDTH = 0.4  # meter
 VEHICLE_WIDTH = 0.21  # meter
 
+
 class Vector2d():
 
     def __init__(self, x, y):
@@ -86,14 +87,13 @@ class APF():
         self.is_path_plan_success = False
         self.is_plot = is_plot
         self.delta_t = 0.001
-        self.w = 2.5
+        self.w = 10
 
     def attractive(self):
         """
         目标速度计算
         """
         # 方向由机器人指向目标点
-        # TODO w= 0.04
         denominator = math.sqrt((self.goal.deltaX - self.current_pos.deltaX)
                                 ** 2 + (self.goal.deltaY - self.current_pos.deltaY)**2)
 
@@ -110,7 +110,7 @@ class APF():
         deltaR = 0.1
 
         alpha = 0.04
-        beta = 10
+        beta = 0.25
         W_P = beta*self.w
         L = deltaR  # / math.sqrt(alpha/beta-1)
         E = 1
@@ -118,14 +118,15 @@ class APF():
         matrix = np.array([[0, -1], [1, 0]])
 
         R_1 = np.array([[math.cos(math.pi/2), -math.sin(math.pi/2)],
-                            [math.sin(math.pi/2), math.cos(math.pi/2)]])
+                        [math.sin(math.pi/2), math.cos(math.pi/2)]])
 
-        R_2 = np.array([[math.cos( - math.pi/2), -math.sin(-math.pi/2)],
-                            [math.sin(-math.pi/2), math.cos(-math.pi/2)]])
+        R_2 = np.array([[math.cos(- math.pi/2), -math.sin(-math.pi/2)],
+                        [math.sin(-math.pi/2), math.cos(-math.pi/2)]])
 
         rep = Vector2d(0, 0)
         for obstacle in self.obstacles:
             v_pi = Vector2d(0, 0)
+            v_g_l = Vector2d(0, 0)
             # 规避速度向量
             # TODO 选择哪个距离？
             t_vec = self.current_pos - obstacle
@@ -137,45 +138,49 @@ class APF():
             if t_vec.length > R_i + deltaR:
                 pass
             elif t_vec.length <= R_i:
-                # 方向由障碍物指向车辆
+                # 方向由障碍物垂直指向圆环外围
                 v_pi = obstacle * W_P/(t_vec.length/R_i)**2
             else:
                 v_pi = obstacle * W_P/(1 + ((t_vec.length - R_i)/L)**2)
 
-            # 导引速度向量
-            matrix_vpi = np.array([[v_pi.deltaX, v_pi.deltaY]])
-            # 规避速度旋转pi/2
-            # v_g = R_1 * matrix_vpi
-            v_g = Vector2d(-v_pi.deltaY, v_pi.deltaX)
-            print('dot production result v_g:{}'.format(v_g))
+            if v_pi.length > 0:
+                print('v_pi:{}'.format(v_pi))
+                # 导引速度向量
+                matrix_vpi = np.array([[v_pi.deltaX, v_pi.deltaY]])
+                # 规避速度旋转pi/2
+                # v_g = R_1 * matrix_vpi
+                v_g = np.array([[-v_pi.deltaY], [v_pi.deltaX]])
+                print('dot production result v_g:{}'.format(v_g))
 
-            # 规避速度旋转-pi/2
-            # v_gg = R_2 * matrix_vpi
-            v_gg = Vector2d(- v_pi.deltaY, -v_pi.deltaX)
-            print('dot production result v_gg:{}'.format(v_g))
+                # 规避速度旋转-pi/2
+                # v_gg = R_2 * matrix_vpi
+                v_gg = np.array([[v_pi.deltaY], [-v_pi.deltaX]])
+                print('dot production result v_gg:{}'.format(v_gg))
 
-            goal = np.array([[self.goal.deltaX], [self.goal.deltaY]])
-            m = np.dot(v_g, goal)
-            print('v_g * goal :{}'.format(m))
+                goal = np.array([[self.goal.deltaX], [self.goal.deltaY]])
+                # m = np.dot(v_g, goal)
+                m = -v_pi.deltaY * self.goal.deltaX + v_pi.deltaX * self.goal.deltaY
+                print('m :{}'.format(m))
 
-            n = np.dot(v_gg * goal)
-            print('v_gg * goal:{}'.format(n))
+                # n = np.dot(v_gg, goal)
+                n = v_pi.deltaY * self.goal.deltaX - v_pi.deltaX * self.goal.deltaY
+                print('n:{}'.format(n))
 
-            # # v_g 与goal 成锐角，说明靠近指向goal
-            # if m == 1:
-                # v_g_l = E * v_pi.length * v_g
+                # # v_g 与goal 成锐角，说明靠近指向goal
+                if m > 0:
+                    v_g_l = Vector2d(-v_pi.deltaX, -v_pi.deltaY) * E
 
-            # # v_g 与goal 成锐角，说明靠近指向goal
-            # if n == 1:
-                # v_g_l = E * v_pi.length * v_gg
+                # # v_g 与goal 成锐角，说明靠近指向goal
+                if n > 0:
+                    v_g_l = Vector2d(
+                        v_pi.deltaY, -v_pi.deltaX) * E * v_pi.length
 
-            # gt = atan2(self.goal.deltaY, self.goal.deltaX)−atan2(rg.deltaX, rg.deltaY)
-            # ggt = atan2(self.goal.deltaY, self.goal.deltaX)−atan2(rgg.deltaX, rgg.deltaY)
+                print('v_g_l:{}'.format(v_g_l))
 
             # 叠加规避速度
-            rep += v_pi
+            # rep += v_pi
             # 叠加导引速度
-            # rep += v_g_l
+            rep += v_g_l
 
         return rep
 
@@ -232,14 +237,13 @@ class APF():
     def plot(self):
         fig = plt.figure()
         ax = Axes3D(fig)
-        X = np.arange(1.0, 3.0, self.step_size)
-        Y = np.arange(1.3, 1.7, self.step_size)
+        X = np.arange(1.0, 3.0, 0.1)
+        Y = np.arange(1.3, 1.7, 0.1)
         X, Y = np.meshgrid(X, Y)
         # R = np.sqrt(X**2 + Y**2)
         # Z = np.arange(1000, -1000)
         Z = np.sqrt(X**2 + Y**2)
 
-        # 具体函数方法可用 help(function) 查看，如：help(ax.plot_surface)
         ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap='rainbow')
         plt.show()
 
@@ -258,11 +262,9 @@ if __name__ == '__main__':
 
     # 设置、绘制起点终点
     start, goal = (1, 1.5), (2.0, 1.5)
-    print("start point is : 1, 1,5")
-    print("goal point is 3.0, 1.5")
 
     # 障碍物设置及绘制
-    obs = [[1.5, 1.45]]
+    obs = [[1.25, 1.45]]
     print('obstacles: {0}'.format(obs))
 
     is_plot = True
@@ -305,8 +307,6 @@ if __name__ == '__main__':
                             alpha=0.3, color='coral')
             subplot.add_patch(circle)
             subplot.plot(OB[0], OB[1], 'xk', color='coral')
-    # t1 = time.time()
-    # for i in range(1000):
     # plt.show()
 
     apf = APF(start, goal, obs, rr, max_iters, goal_threashold, is_plot)
@@ -331,4 +331,3 @@ if __name__ == '__main__':
             plt.show()
     else:
         print('path plan failed')
-

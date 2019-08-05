@@ -1,0 +1,1000 @@
+obstacles: [[1.25, 1.45]]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.25495097567963926, distance2obstacle:1.0
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.01, deltaY:1.5, length:1.8083417818543044, direction:[0.5585227362077145, 0.829489212189675]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.24515301344262524, distance2obstacle:0.99
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.02, deltaY:1.5, length:1.8139459749397169, direction:[0.5623100214072791, 0.8269265020695281]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.23537204591879637, distance2obstacle:0.98
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.03, deltaY:1.5, length:1.8195878654244757, direction:[0.5660622493543176, 0.8243624990596857]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.22561028345356954, distance2obstacle:0.97
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.04, deltaY:1.5, length:1.825267103741258, direction:[0.5697796217705932, 0.821797531399894]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.215870331449229, distance2obstacle:0.96
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.05, deltaY:1.5, length:1.8309833423600554, direction:[0.5734623443633283, 0.8192319205190405]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.20615528128088298, distance2obstacle:0.95
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.06, deltaY:1.5, length:1.8367362358270172, direction:[0.5771106266233811, 0.8166659810708222]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.19646882704388496, distance2obstacle:0.94
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.07, deltaY:1.5, length:1.8425254408012932, direction:[0.5807246816275543, 0.8141000209732069]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.186815416922694, distance2obstacle:0.9299999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.08, deltaY:1.5, length:1.8483506160899237, direction:[0.584304725845076, 0.8115343414514943]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.17720045146669344, distance2obstacle:0.9199999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.09, deltaY:1.5, length:1.854211422680812, direction:[0.587850978948281, 0.8089692370847903]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.16763054614240203, distance2obstacle:0.9099999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.1, deltaY:1.5, length:1.8601075237738274, direction:[0.5913636636275175, 0.8064049958557056]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.15811388300841892, distance2obstacle:0.8999999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.11, deltaY:1.5, length:1.8660385848100784, direction:[0.5948430054102947, 0.8038418992031008]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.14866068747318498, distance2obstacle:0.8899999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.12, deltaY:1.5, length:1.8720042734993958, direction:[0.598289232484683, 0.8012802220777003]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.13928388277184112, distance2obstacle:0.8799999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.1300000000000001, deltaY:1.5, length:1.878004259846074, direction:[0.601702575526968, 0.7987202330004001]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.12999999999999992, distance2obstacle:0.8699999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.1400000000000001, deltaY:1.5, length:1.88403821617291, direction:[0.6050832675335579, 0.7961621941231025]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.12083045973594563, distance2obstacle:0.8599999999999999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+current_position:Vector deltaX:1.1500000000000001, deltaY:1.5, length:1.89010581714358, direction:[0.6084315436571356, 0.793606361291916]
+attractive : Vector deltaX:10.0, deltaY:0.0, length:10.0, direction:[1.0, 0.0]
+t_vec length:0.11180339887498938, distance2obstacle:0.8499999999999999
+v_pi:Vector deltaX:1.6958015277130467, deltaY:1.9671297721471344, length:2.5971796937950864, direction:[0.6529396220694628, 0.7574099616005768]
+dot production result v_g:[[-1.96712977]
+ [ 1.69580153]]
+dot production result v_gg:[[ 1.96712977]
+ [-1.69580153]]
+m :-1.3905572527246988
+n:1.3905572527246988
+v_g_l:Vector deltaX:5.108989499280293, deltaY:-4.4043012924830105, length:6.74534236186154, direction:[0.7574099616005768, -0.6529396220694627]
+repulsion: Vector deltaX:5.108989499280293, deltaY:-4.4043012924830105, length:6.74534236186154, direction:[0.7574099616005768, -0.6529396220694627]
+combined velocity:Vector deltaX:15.108989499280293, deltaY:-4.4043012924830105, length:15.737834462349948, direction:[0.9600424718804828, -0.2798543410162015]
+current_position:Vector deltaX:1.1651089894992803, deltaY:1.495595698707517, length:1.8958600822329847, direction:[0.614554312535021, 0.7888745127994742]
+attractive : Vector deltaX:9.999860858906581, deltaY:0.05275227490965401, length:10.000000000000002, direction:[0.999986085890658, 0.0052752274909654]
+t_vec length:0.09636104713243815, distance2obstacle:0.8349026274271675
+v_pi:Vector deltaX:1.973973925173492, deltaY:2.2898097532012507, length:3.023210505922539, direction:[0.6529396220694628, 0.7574099616005768]
+dot production result v_g:[[-2.28980975]
+ [ 1.97397393]]
+dot production result v_gg:[[ 2.28980975]
+ [-1.97397393]]
+m :-1.6186586186422636 
+n:1.6186586186422636
+v_g_l:Vector deltaX:6.922576902441918, deltaY:-5.967738709001654, length:9.139801763120415, direction:[0.7574099616005768, -0.6529396220694628]
+repulsion: Vector deltaX:6.922576902441918, deltaY:-5.967738709001654, length:9.139801763120415, direction:[0.7574099616005768, -0.6529396220694628]
+combined velocity:Vector deltaX:16.922437761348498, deltaY:-5.9149864340919995, length:17.926404109642455, direction:[0.9439951067624358, -0.32995944964279705]
+current_position:Vector deltaX:1.182031427260629, deltaY:1.489680712273425, length:1.9016695084980613, direction:[0.6215756323474931, 0.7833541557123535]
+attractive : Vector deltaX:9.999204309129619, deltaY:0.12614747038159688, length:10.0, direction:[0.9999204309129619, 0.012614747038159688]
+t_vec length:0.07870378521236143, distance2obstacle:0.818033662931097
+v_pi:Vector deltaX:2.3240880296456123, deltaY:2.69594211438891, length:3.5594225730696505, direction:[0.6529396220694628, 0.7574099616005767]
+dot production result v_g:[[-2.69594211]
+ [ 2.32408803]]
+dot production result v_gg:[[ 2.69594211]
+ [-2.32408803]]
+m :-1.9057521843094012
+n:1.9057521843094012
+v_g_l:Vector deltaX:9.595997217645008, deltaY:-8.27241139452156, length:12.669489053677772, direction:[0.7574099616005767, -0.6529396220694628]
+repulsion: Vector deltaX:9.595997217645008, deltaY:-8.27241139452156, length:12.669489053677772, direction:[0.7574099616005767, -0.6529396220694628]
+combined velocity:Vector deltaX:19.595201526774627, deltaY:-8.146263924139964, length:21.221063564219747, direction:[0.9233845168728281, -0.38387632643799985]
+current_position:Vector deltaX:1.2016266287874036, deltaY:1.4815344483492852, length:1.907577226918114, direction:[0.6299229262286562, 0.7766576510995864]
+attractive : Vector deltaX:9.997326327003796, deltaY:0.23122783439026004, length:10.0, direction:[0.9997326327003796, 0.023122783439026004]
+t_vec length:0.05774430253423614, distance2obstacle:0.798586887232148
+v_pi:Vector deltaX:2.7353177745724597, deltaY:3.1729686185040533, length:4.1892353934702165, direction:[0.6529396220694627, 0.7574099616005767]
+dot production result v_g:[[-3.17296862]
+ [ 2.73531777]]
+dot production result v_gg:[[ 3.17296862]
+ [-2.73531777]]
+m :-2.242960575149417
+n:2.242960575149417
+v_g_l:Vector deltaX:13.292312439007476, deltaY:-11.458890033627135, length:17.549693181903557, direction:[0.7574099616005767, -0.6529396220694628]
+repulsion: Vector deltaX:13.292312439007476, deltaY:-11.458890033627135, length:17.549693181903557, direction:[0.7574099616005767, -0.6529396220694628]
+combined velocity:Vector deltaX:23.289638766011272, deltaY:-11.227662199236875, length:25.854741776151382, direction:[0.9007879083709828, -0.43425930517679195]
+current_position:Vector deltaX:1.2249162675534149, deltaY:1.4703067861500483, length:1.913693263800621, direction:[0.6400797299775798, 0.7683084922554406]
+attractive : Vector deltaX:9.992669907494168, deltaY:0.38281603918922347, length:10.000000000000002, direction:[0.9992669907494166, 0.03828160391892234]
+t_vec length:0.03227319626556474, distance2obstacle:0.7756522927524088
+v_pi:Vector deltaX:3.0786262384112915, deltaY:3.571206436557098, length:4.715024382581845, direction:[0.6529396220694627, 0.7574099616005767]
+dot production result v_g:[[-3.57120644]
+ [ 3.07862624]]
+dot production result v_gg:[[ 3.57120644]
+ [-3.07862624]]
+m :-2.5244735154972595
+n:2.5244735154972595
+v_g_l:Vector deltaX:16.838325423599944, deltaY:-14.515797778965467, length:22.231454928341307, direction:[0.7574099616005768, -0.6529396220694627]
+repulsion: Vector deltaX:16.838325423599944, deltaY:-14.515797778965467, length:22.231454928341307, direction:[0.7574099616005768, -0.6529396220694627]
+combined velocity:Vector deltaX:26.830995331094112, deltaY:-14.132981739776245, length:30.325624203205496, direction:[0.8847631676533803, -0.46604091790738317]
+current_position:Vector deltaX:1.251747262884509, deltaY:1.456173804410272, length:1.920237839120338, direction:[0.6518709492038419, 0.7583299186924397]
+attractive : Vector deltaX:9.982890975263645, deltaY:0.5847117033202445, length:10.0, direction:[0.9982890975263645, 0.058471170332024446]
+t_vec length:0.006416290866527062, distance2obstacle:0.7495351186039872
+v_pi:Vector deltaX:30.362807506212903, deltaY:35.22085670720697, length:46.50170778421955, direction:[0.6529396220694627, 0.7574099616005768]
+dot production result v_g:[[-35.22085671]
+ [ 30.36280751]]
+dot production result v_gg:[[ 35.22085671]
+ [-30.36280751]]
+m :-24.897502155094585
+n:24.897502155094585
+v_g_l:Vector deltaX:1637.8299865084075, deltaY:-1411.9224021624202, length:2162.408826848945, direction:[0.7574099616005767, -0.6529396220694627]
+repulsion: Vector deltaX:1637.8299865084075, deltaY:-1411.9224021624202, length:2162.408826848945, direction:[0.7574099616005767, -0.6529396220694627]
+combined velocity:Vector deltaX:1647.8128774836712, deltaY:-1411.3376904591, length:2169.599353731339, direction:[0.7595009994125024, -0.650506135168155]
+current_position:Vector deltaX:2.8995601403681803, deltaY:0.04483611395117215, length:2.8999067717301164, direction:[0.9998804681014869, 0.015461225991214342]
+attractive : Vector deltaX:-5.258239091182086, deltaY:8.505934496571474, length:10.000000000000002, direction:[-0.5258239091182085, 0.8505934496571472]
+t_vec length:2.1669181348974247, distance2obstacle:1.7107630991460934
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182086, deltaY:8.505934496571474, length:10.000000000000002, direction:[-0.5258239091182085, 0.8505934496571472]
+current_position:Vector deltaX:2.8943019012769984, deltaY:0.05334204844774362, length:2.8947934071135797, direction:[0.999830210392433, 0.018426893026860725]
+attractive : Vector deltaX:-5.258239091182086, deltaY:8.505934496571472, length:10.0, direction:[-0.5258239091182086, 0.8505934496571472]
+t_vec length:2.1574017187759207, distance2obstacle:1.7007630991460936
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182086, deltaY:8.505934496571472, length:10.0, direction:[-0.5258239091182086, 0.8505934496571472]
+current_position:Vector deltaX:2.8890436621858164, deltaY:0.061847982944315094, length:2.8897056000586487, direction:[0.9997709324185762, 0.021402866417623942]
+attractive : Vector deltaX:-5.258239091182087, deltaY:8.505934496571472, length:10.0, direction:[-0.5258239091182088, 0.8505934496571472]
+t_vec length:2.1478896966574563, distance2obstacle:1.6907630991460936
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182087, deltaY:8.505934496571472, length:10.0, direction:[-0.5258239091182088, 0.8505934496571472]
+current_position:Vector deltaX:2.8837854230946345, deltaY:0.07035391744088657, length:2.8846434857972274, direction:[0.9997025411608687, 0.024389120453629606]
+attractive : Vector deltaX:-5.258239091182087, deltaY:8.505934496571472, length:10.0, direction:[-0.5258239091182088, 0.8505934496571472]
+t_vec length:2.1383821271786814, distance2obstacle:1.6807630991460938
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182087, deltaY:8.505934496571472, length:10.0, direction:[-0.5258239091182088, 0.8505934496571472]
+current_position:Vector deltaX:2.8785271840034525, deltaY:0.07885985193745804, length:2.8796071998268173, direction:[0.9996249433521941, 0.027385628130878668]
+attractive : Vector deltaX:-5.258239091182089, deltaY:8.505934496571472, length:10.000000000000002, direction:[-0.5258239091182089, 0.850593449657147]
+t_vec length:2.128879069996035, distance2obstacle:1.6707630991460938
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182089, deltaY:8.505934496571472, length:10.000000000000002, direction:[-0.5258239091182089, 0.850593449657147]
+current_position:Vector deltaX:2.8732689449122706, deltaY:0.08736578643402951, length:2.87459687790071, direction:[0.9995380454913007, 0.0303923611361576]
+attractive : Vector deltaX:-5.258239091182089, deltaY:8.50593449657147, length:10.0, direction:[-0.5258239091182089, 0.850593449657147]
+t_vec length:2.1193805858073596, distance2obstacle:1.6607630991460938
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182089, deltaY:8.50593449657147, length:10.0, direction:[-0.5258239091182089, 0.850593449657147]
+current_position:Vector deltaX:2.8680107058210886, deltaY:0.09587172093060098, length:2.8696126560179813, direction:[0.9994417538570813, 0.03340928983204214]
+attractive : Vector deltaX:-5.25823909118209, deltaY:8.505934496571468, length:9.999999999999998, direction:[-0.5258239091182091, 0.850593449657147]
+t_vec length:2.1098867363740426, distance2obstacle:1.650763099146094
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118209, deltaY:8.505934496571468, length:9.999999999999998, direction:[-0.5258239091182091, 0.850593449657147]
+current_position:Vector deltaX:2.8627524667299067, deltaY:0.10437765542717245, length:2.864654670413284, direction:[0.999335974523204, 0.03643638324200309]
+attractive : Vector deltaX:-5.25823909118209, deltaY:8.50593449657147, length:10.0, direction:[-0.525823909118209, 0.850593449657147]
+t_vec length:2.100397584543715, distance2obstacle:1.640763099146094
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118209, deltaY:8.50593449657147, length:10.0, direction:[-0.525823909118209, 0.850593449657147]
+current_position:Vector deltaX:2.8574942276387247, deltaY:0.11288358992374392, length:2.85972305754643, direction:[0.9992206133730944, 0.03947360903562291]
+attractive : Vector deltaX:-5.258239091182091, deltaY:8.50593449657147, length:10.0, direction:[-0.5258239091182091, 0.850593449657147]
+t_vec length:2.0909131942735057, distance2obstacle:1.630763099146094
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182091, deltaY:8.50593449657147, length:10.0, direction:[-0.5258239091182091, 0.850593449657147]
+current_position:Vector deltaX:2.852235988547543, deltaY:0.12138952442031539, length:2.8548179540917786, direction:[0.9990955761152702, 0.042520933513931825]
+attractive : Vector deltaX:-5.258239091182091, deltaY:8.505934496571468, length:9.999999999999998, direction:[-0.5258239091182092, 0.850593449657147]
+t_vec length:2.081433630653881, distance2obstacle:1.6207630991460942
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182091, deltaY:8.505934496571468, length:9.999999999999998, direction:[-0.5258239091182092, 0.850593449657147]
+current_position:Vector deltaX:2.846977749456361, deltaY:0.12989545891688686, length:2.8499394969274054, direction:[0.9989607682990331, 0.04557832159487265]
+attractive : Vector deltaX:-5.258239091182092, deltaY:8.505934496571468, length:10.0, direction:[-0.5258239091182092, 0.8505934496571468]
+t_vec length:2.0719589599330774, distance2obstacle:1.6107630991460942
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182092, deltaY:8.505934496571468, length:10.0, direction:[-0.5258239091182092, 0.8505934496571468]
+current_position:Vector deltaX:2.841719510365179, deltaY:0.13840139341345833, length:2.845087823124077, direction:[0.9988160953305127, 0.04864573679890321]
+attractive : Vector deltaX:-5.258239091182092, deltaY:8.505934496571468, length:10.0, direction:[-0.5258239091182092, 0.8505934496571468]
+t_vec length:2.0624892495421454, distance2obstacle:1.6007630991460944
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182092, deltaY:8.505934496571468, length:10.0, direction:[-0.5258239091182092, 0.8505934496571468]
+current_position:Vector deltaX:2.836461271273997, deltaY:0.1469073279100298, length:2.8402630699340095, direction:[0.9986614624890712, 0.051723141234745924]
+attractive : Vector deltaX:-5.258239091182094, deltaY:8.505934496571468, length:10.0, direction:[-0.5258239091182094, 0.8505934496571468]
+t_vec length:2.0530245681206267, distance2obstacle:1.5907630991460942
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182094, deltaY:8.505934496571468, length:10.0, direction:[-0.5258239091182094, 0.8505934496571468]
+current_position:Vector deltaX:2.831203032182815, deltaY:0.15541326240660128, length:2.835465374779426, direction:[0.9984967749440627, 0.05481049558529384]
+attractive : Vector deltaX:-5.258239091182094, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182094, 0.8505934496571467]
+t_vec length:2.0435649855428744, distance2obstacle:1.5807630991460944
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182094, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182094, 0.8505934496571467]
+current_position:Vector deltaX:2.825944793091633, deltaY:0.16391919690317275, length:2.8306948752409, direction:[0.9983219377719533, 0.05790775909368288]
+attractive : Vector deltaX:-5.258239091182095, deltaY:8.505934496571468, length:10.000000000000002, direction:[-0.5258239091182094, 0.8505934496571467]
+t_vec length:2.0341105729450426, distance2obstacle:1.5707630991460944
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182095, deltaY:8.505934496571468, length:10.000000000000002, direction:[-0.5258239091182094, 0.8505934496571467]
+current_position:Vector deltaX:2.820686554000451, deltaY:0.17242513139974422, length:2.825951709045496, direction:[0.9981368559737975, 0.06101488954953982]
+attractive : Vector deltaX:-5.258239091182095, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182095, 0.8505934496571467]
+t_vec length:2.0246614027527596, distance2obstacle:1.5607630991460946
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182095, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182095, 0.8505934496571467]
+current_position:Vector deltaX:2.815428314909269, deltaY:0.1809310658963157, length:2.821236014054695, direction:[0.9979414344930756, 0.06413184327541624]
+attractive : Vector deltaX:-5.258239091182096, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182096, 0.8505934496571467]
+t_vec length:2.0152175487095025, distance2obstacle:1.5507630991460946
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182096, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182096, 0.8505934496571467]
+current_position:Vector deltaX:2.810170075818087, deltaY:0.18943700039288716, length:2.8165479282521164, direction:[0.9977355782338889, 0.06725857511341812]
+attractive : Vector deltaX:-5.258239091182096, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182096, 0.8505934496571467]
+t_vec length:2.005779085905698, distance2obstacle:1.5407630991460948
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182096, deltaY:8.505934496571466, length:10.0, direction:[-0.5258239091182096, 0.8505934496571467]
+current_position:Vector deltaX:2.8049118367269052, deltaY:0.19794293488945863, length:2.811887589731025, direction:[0.9975191920795144, 0.07039503841204162]
+attractive : Vector deltaX:-5.258239091182098, deltaY:8.505934496571466, length:10.000000000000002, direction:[-0.5258239091182098, 0.8505934496571464]
+t_vec length:1.9963460908085702, distance2obstacle:1.5307630991460948
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182098, deltaY:8.505934496571466, length:10.000000000000002, direction:[-0.5258239091182098, 0.8505934496571464]
+current_position:Vector deltaX:2.7996535976357233, deltaY:0.2064488693860301, length:2.8072551366816336, direction:[0.9972921809113169, 0.07354118501322494]
+attractive : Vector deltaX:-5.258239091182098, deltaY:8.505934496571465, length:10.0, direction:[-0.5258239091182098, 0.8505934496571464]
+t_vec length:1.9869186412927489, distance2obstacle:1.520763099146095
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182098, deltaY:8.505934496571465, length:10.0, direction:[-0.5258239091182098, 0.8505934496571464]
+current_position:Vector deltaX:2.7943953585445414, deltaY:0.21495480388260158, length:2.8026507073781928, direction:[0.9970544496280187, 0.0766969652396271]
+attractive : Vector deltaX:-5.258239091182099, deltaY:8.505934496571465, length:10.0, direction:[-0.5258239091182099, 0.8505934496571464]
+t_vec length:1.977496816671669, distance2obstacle:1.510763099146095
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182099, deltaY:8.505934496571465, length:10.0, direction:[-0.5258239091182099, 0.8505934496571464]
+current_position:Vector deltaX:2.7891371194533594, deltaY:0.22346073837917305, length:2.79807444016587, direction:[0.9968059031653279, 0.07986232788214394]
+attractive : Vector deltaX:-5.2582390911821, deltaY:8.505934496571463, length:10.0, direction:[-0.52582390911821, 0.8505934496571463]
+t_vec length:1.9680806977297824, distance2obstacle:1.500763099146095
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821, deltaY:8.505934496571463, length:10.0, direction:[-0.52582390911821, 0.8505934496571463]
+current_position:Vector deltaX:2.7838788803621775, deltaY:0.23196667287574452, length:2.793526473447426, direction:[0.9965464465159184, 0.0830372201876719]
+attractive : Vector deltaX:-5.258239091182101, deltaY:8.505934496571463, length:10.0, direction:[-0.5258239091182101, 0.8505934496571463]
+t_vec length:1.9586703667555985, distance2obstacle:1.490763099146095
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182101, deltaY:8.505934496571463, length:10.0, direction:[-0.5258239091182101, 0.8505934496571463]
+current_position:Vector deltaX:2.7786206412709955, deltaY:0.240472607372316, length:2.789006945669673, direction:[0.9962759847497678, 0.08622158784713092]
+attractive : Vector deltaX:-5.2582390911821015, deltaY:8.505934496571465, length:10.000000000000002, direction:[-0.5258239091182101, 0.8505934496571463]
+t_vec length:1.949265907575586, distance2obstacle:1.480763099146095
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821015, deltaY:8.505934496571465, length:10.000000000000002, direction:[-0.5258239091182101, 0.8505934496571463]
+current_position:Vector deltaX:2.7733624021798136, deltaY:0.24897854186888746, length:2.7845159953097314, direction:[0.9959944230348452, 0.08941537498375646]
+attractive : Vector deltaX:-5.2582390911821015, deltaY:8.505934496571463, length:10.0, direction:[-0.5258239091182102, 0.8505934496571463]
+t_vec length:1.9398674055889582, distance2obstacle:1.4707630991460952
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821015, deltaY:8.505934496571463, length:10.0, direction:[-0.5258239091182102, 0.8505934496571463]
+current_position:Vector deltaX:2.7681041630886316, deltaY:0.2574844763654589, length:2.780053760861075, direction:[0.9957016666581504, 0.0926185241416725]
+attractive : Vector deltaX:-5.258239091182103, deltaY:8.505934496571463, length:10.0, direction:[-0.5258239091182103, 0.8505934496571463]
+t_vec length:1.9304749478033634, distance2obstacle:1.4607630991460954
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182103, deltaY:8.505934496571463, length:10.0, direction:[-0.5258239091182103, 0.8505934496571463]
+current_position:Vector deltaX:2.7628459239974497, deltaY:0.26599041086203035, length:2.7756203808193716, direction:[0.9953976210471005, 0.09583097627475598]
+attractive : Vector deltaX:-5.258239091182104, deltaY:8.505934496571463, length:10.000000000000002, direction:[-0.5258239091182103, 0.8505934496571461]
+t_vec length:1.9210886228715114, distance2obstacle:1.4507630991460954
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182104, deltaY:8.505934496571463, length:10.000000000000002, direction:[-0.5258239091182103, 0.8505934496571461]
+current_position:Vector deltaX:2.7575876849062677, deltaY:0.2744963453586018, length:2.771215993668111, direction:[0.9950821917912633, 0.09905267073580418]
+attractive : Vector deltaX:-5.258239091182104, deltaY:8.505934496571461, length:10.0, direction:[-0.5258239091182104, 0.8505934496571461]
+t_vec length:1.9117085211287634, distance2obstacle:1.4407630991460956
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182104, deltaY:8.505934496571461, length:10.0, direction:[-0.5258239091182104, 0.8505934496571461]
+current_position:Vector deltaX:2.7523294458150858, deltaY:0.28300227985517323, length:2.7668407378640363, direction:[0.9947552846644317, 0.10228354526601599]
+attractive : Vector deltaX:-5.258239091182105, deltaY:8.505934496571461, length:10.0, direction:[-0.5258239091182105, 0.8505934496571461]
+t_vec length:1.9023347346317068, distance2obstacle:1.4307630991460956
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182105, deltaY:8.505934496571461, length:10.0, direction:[-0.5258239091182105, 0.8505934496571461]
+current_position:Vector deltaX:2.747071206723904, deltaY:0.2915082143517447, length:2.7624947518223575, direction:[0.9944168056470409, 0.10552353598479891]
+attractive : Vector deltaX:-5.258239091182105, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182105, 0.8505934496571459]
+t_vec length:1.8929673571977539, distance2obstacle:1.4207630991460958
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182105, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182105, 0.8505934496571459]
+current_position:Vector deltaX:2.741812967632722, deltaY:0.3000141488483161, length:2.7581781739017757, direction:[0.9940666609489178, 0.1087725773799123]
+attractive : Vector deltaX:-5.258239091182107, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182106, 0.8505934496571459]
+t_vec length:1.8836064844457854, distance2obstacle:1.4107630991460958
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182107, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182106, 0.8505934496571459]
+current_position:Vector deltaX:2.73655472854154, deltaY:0.30852008334488756, length:2.7538911423892913, direction:[0.9937047570323676, 0.11203060229795932]
+attractive : Vector deltaX:-5.258239091182108, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182108, 0.8505934496571459]
+t_vec length:1.8742522138378745, distance2obstacle:1.4007630991460958
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182108, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182108, 0.8505934496571459]
+current_position:Vector deltaX:2.731296489450358, deltaY:0.317026017841459, length:2.749633795484821, direction:[0.9933310006355848, 0.11529754193523808]
+attractive : Vector deltaX:-5.258239091182108, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182108, 0.8505934496571459]
+t_vec length:1.86490464472212, distance2obstacle:1.390763099146096
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182108, deltaY:8.50593449657146, length:10.0, direction:[-0.5258239091182108, 0.8505934496571459]
+current_position:Vector deltaX:2.726038250359176, deltaY:0.32553195233803045, length:2.7454062712856047, direction:[0.992945298796393, 0.11857332582896447]
+attractive : Vector deltaX:-5.2582390911821095, deltaY:8.50593449657146, length:10.000000000000002, direction:[-0.5258239091182109, 0.8505934496571458]
+t_vec length:1.855563878376624, distance2obstacle:1.380763099146096
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821095, deltaY:8.50593449657146, length:10.000000000000002, direction:[-0.5258239091182109, 0.8505934496571458]
+current_position:Vector deltaX:2.720780011267994, deltaY:0.3340378868346019, length:2.741208707770423, direction:[0.9925475588763014, 0.12185788184887732]
+attractive : Vector deltaX:-5.2582390911821095, deltaY:8.505934496571458, length:10.0, direction:[-0.525823909118211, 0.8505934496571458]
+t_vec length:1.8462300180546467, distance2obstacle:1.3707630991460962
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821095, deltaY:8.505934496571458, length:10.0, direction:[-0.525823909118211, 0.8505934496571458]
+current_position:Vector deltaX:2.715521772176812, deltaY:0.34254382133117334, length:2.7370412427836115, direction:[0.9921376885848773, 0.12515113618923812]
+attractive : Vector deltaX:-5.25823909118211, deltaY:8.505934496571458, length:10.0, direction:[-0.5258239091182111, 0.8505934496571458]
+t_vec length:1.836903169030971, distance2obstacle:1.3607630991460962
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118211, deltaY:8.505934496571458, length:10.0, direction:[-0.5258239091182111, 0.8505934496571458]
+current_position:Vector deltaX:2.71026353308563, deltaY:0.3510497558277448, length:2.732904014018883, direction:[0.991715596004428, 0.12845301336123663]
+attractive : Vector deltaX:-5.25823909118211, deltaY:8.505934496571456, length:9.999999999999998, direction:[-0.5258239091182111, 0.8505934496571458]
+t_vec length:1.8275834386495153, distance2obstacle:1.3507630991460964
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118211, deltaY:8.505934496571456, length:9.999999999999998, direction:[-0.5258239091182111, 0.8505934496571458]
+current_position:Vector deltaX:2.7050052939944482, deltaY:0.3595556903243162, length:2.7287971590029527, direction:[0.9912811896149886, 0.13176343618581404]
+attractive : Vector deltaX:-5.258239091182112, deltaY:8.505934496571456, length:10.0, direction:[-0.5258239091182112, 0.8505934496571456]
+t_vec length:1.8182709363722307, distance2obstacle:1.3407630991460966
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182112, deltaY:8.505934496571456, length:10.0, direction:[-0.5258239091182112, 0.8505934496571456]
+current_position:Vector deltaX:2.6997470549032663, deltaY:0.36806162482088767, length:2.724720815078978, direction:[0.9908343783196049, 0.1350823257869152]
+attractive : Vector deltaX:-5.258239091182113, deltaY:8.505934496571456, length:10.0, direction:[-0.5258239091182113, 0.8505934496571456]
+t_vec length:1.8089657738293203, distance2obstacle:1.3307630991460966
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182113, deltaY:8.505934496571456, length:10.0, direction:[-0.5258239091182113, 0.8505934496571456]
+current_position:Vector deltaX:2.6944888158120843, deltaY:0.3765675593174591, length:2.7206751193898024, direction:[0.990375071469911, 0.13840960158518167]
+attractive : Vector deltaX:-5.258239091182114, deltaY:8.505934496571456, length:10.0, direction:[-0.5258239091182114, 0.8505934496571456]
+t_vec length:1.7996680648708179, distance2obstacle:1.3207630991460966
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182114, deltaY:8.505934496571456, length:10.0, direction:[-0.5258239091182114, 0.8505934496571456]
+current_position:Vector deltaX:2.6892305767209024, deltaY:0.38507349381403055, length:2.7166602088610166, direction:[0.9899031788919916, 0.14174518129209687]
+attractive : Vector deltaX:-5.258239091182114, deltaY:8.505934496571454, length:9.999999999999998, direction:[-0.5258239091182115, 0.8505934496571456]
+t_vec length:1.7903779256195707, distance2obstacle:1.3107630991460968
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182114, deltaY:8.505934496571454, length:9.999999999999998, direction:[-0.5258239091182115, 0.8505934496571456]
+current_position:Vector deltaX:2.6839723376297204, deltaY:0.393579428310602, length:2.712676220183833, direction:[0.9894186109125226, 0.14508898090459532]
+attractive : Vector deltaX:-5.258239091182116, deltaY:8.505934496571454, length:10.0, direction:[-0.5258239091182115, 0.8505934496571455]
+t_vec length:1.7810954745256637, distance2obstacle:1.300763099146097
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182116, deltaY:8.505934496571454, length:10.0, direction:[-0.5258239091182115, 0.8505934496571455]
+current_position:Vector deltaX:2.6787140985385385, deltaY:0.40208536280717344, length:2.7087232897977804, direction:[0.9889212783851826, 0.14844091470014684]
+attractive : Vector deltaX:-5.258239091182117, deltaY:8.505934496571454, length:10.0, direction:[-0.5258239091182116, 0.8505934496571455]
+t_vec length:1.771820832422331, distance2obstacle:1.290763099146097
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182117, deltaY:8.505934496571454, length:10.0, direction:[-0.5258239091182116, 0.8505934496571455]
+current_position:Vector deltaX:2.6734558594473565, deltaY:0.4105912973037449, length:2.704801553873218, direction:[0.9884110927173289, 0.15180089523232745]
+attractive : Vector deltaX:-5.2582390911821175, deltaY:8.505934496571454, length:10.0, direction:[-0.5258239091182118, 0.8505934496571455]
+t_vec length:1.7625541225833958, distance2obstacle:1.280763099146097
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821175, deltaY:8.505934496571454, length:10.0, direction:[-0.5258239091182118, 0.8505934496571455]
+current_position:Vector deltaX:2.6681976203561746, deltaY:0.4190972318003163, length:2.7009111482936716, direction:[0.9878879658969292, 0.15516883332688872]
+attractive : Vector deltaX:-5.2582390911821175, deltaY:8.505934496571452, length:10.0, direction:[-0.5258239091182118, 0.8505934496571452]
+t_vec length:1.7532954707822885, distance2obstacle:1.2707630991460972
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821175, deltaY:8.505934496571452, length:10.0, direction:[-0.5258239091182118, 0.8505934496571452]
+current_position:Vector deltaX:2.6629393812649926, deltaY:0.42760316629688777, length:2.6970522086379987, direction:[0.9873518105197404, 0.15854463807833583]
+attractive : Vector deltaX:-5.258239091182119, deltaY:8.505934496571452, length:10.0, direction:[-0.525823909118212, 0.8505934496571452]
+t_vec length:1.7440450053526857, distance2obstacle:1.2607630991460972
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182119, deltaY:8.505934496571452, length:10.0, direction:[-0.525823909118212, 0.8505934496571452]
+current_position:Vector deltaX:2.6576811421738107, deltaY:0.4361091007934592, length:2.69322487016238, direction:[0.9868025398167266, 0.16192821684702668]
+attractive : Vector deltaX:-5.258239091182119, deltaY:8.50593449657145, length:9.999999999999998, direction:[-0.525823909118212, 0.8505934496571452]
+t_vec length:1.7348028572508207, distance2obstacle:1.2507630991460974
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182119, deltaY:8.50593449657145, length:9.999999999999998, direction:[-0.525823909118212, 0.8505934496571452]
+current_position:Vector deltaX:2.6524229030826287, deltaY:0.44461503529003066, length:2.6894292677821507, direction:[0.9862400676817058, 0.1653194752568021]
+attractive : Vector deltaX:-5.258239091182121, deltaY:8.50593449657145, length:10.0, direction:[-0.5258239091182121, 0.850593449657145]
+t_vec length:1.7255691601195167, distance2obstacle:1.2407630991460974
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182121, deltaY:8.50593449657145, length:10.0, direction:[-0.5258239091182121, 0.850593449657145]
+current_position:Vector deltaX:2.647164663991447, deltaY:0.4531209697866021, length:2.6856655360534565, direction:[0.9856643086992187, 0.16871831719315886]
+attractive : Vector deltaX:-5.258239091182122, deltaY:8.50593449657145, length:10.0, direction:[-0.5258239091182122, 0.850593449657145]
+t_vec length:1.7163440503539893, distance2obstacle:1.2307630991460976
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182122, deltaY:8.50593449657145, length:10.0, direction:[-0.5258239091182122, 0.850593449657145]
+current_position:Vector deltaX:2.641906424900265, deltaY:0.46162690428317354, length:2.681933809154761, direction:[0.985075178172607, 0.17212464480197595]
+attractive : Vector deltaX:-5.258239091182123, deltaY:8.50593449657145, length:10.0, direction:[-0.5258239091182123, 0.850593449657145]
+t_vec length:1.7071276671694766, distance2obstacle:1.2207630991460976
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182123, deltaY:8.50593449657145, length:10.0, direction:[-0.5258239091182123, 0.850593449657145]
+current_position:Vector deltaX:2.636648185809083, deltaY:0.470132838779745, length:2.678234220868188, direction:[0.9844725921522934, 0.17553835848880486]
+attractive : Vector deltaX:-5.258239091182125, deltaY:8.505934496571449, length:10.0, direction:[-0.5258239091182124, 0.8505934496571449]
+t_vec length:1.6979201526707497, distance2obstacle:1.2107630991460978
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182125, deltaY:8.505934496571449, length:10.0, direction:[-0.5258239091182124, 0.8505934496571449]
+current_position:Vector deltaX:2.631389946717901, deltaY:0.47863877327631643, length:2.674566904560717, direction:[0.98385646746425, 0.17895935691873457]
+attractive : Vector deltaX:-5.2582390911821255, deltaY:8.505934496571449, length:10.0, direction:[-0.5258239091182125, 0.8505934496571449]
+t_vec length:1.6887216519235562, distance2obstacle:1.2007630991460978
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821255, deltaY:8.505934496571449, length:10.0, direction:[-0.5258239091182125, 0.8505934496571449]
+current_position:Vector deltaX:2.626131707626719, deltaY:0.4871447077728879, length:2.6709319931652247, direction:[0.9832267217386488, 0.1823875370168412]
+attractive : Vector deltaX:-5.258239091182126, deltaY:8.505934496571449, length:10.000000000000002, direction:[-0.5258239091182125, 0.8505934496571447]
+t_vec length:1.6795323130280606, distance2obstacle:1.1907630991460978
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182126, deltaY:8.505934496571449, length:10.000000000000002, direction:[-0.5258239091182125, 0.8505934496571447]
+current_position:Vector deltaX:2.620873468535537, deltaY:0.4956506422694593, length:2.667329619161386, direction:[0.9825832734386781, 0.18582279396923315]
+attractive : Vector deltaX:-5.258239091182127, deltaY:8.505934496571447, length:10.0, direction:[-0.5258239091182128, 0.8505934496571447]
+t_vec length:1.670352287194336, distance2obstacle:1.180763099146098
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182127, deltaY:8.505934496571447, length:10.0, direction:[-0.5258239091182128, 0.8505934496571447]
+current_position:Vector deltaX:2.615615229444355, deltaY:0.5041565767660308, length:2.6637599145564317, direction:[0.981926041889517, 0.18926502122470099]
+attractive : Vector deltaX:-5.258239091182127, deltaY:8.505934496571445, length:9.999999999999998, direction:[-0.5258239091182129, 0.8505934496571447]
+t_vec length:1.6611817288199724, distance2obstacle:1.1707630991460982
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182127, deltaY:8.505934496571445, length:9.999999999999998, direction:[-0.5258239091182129, 0.8505934496571447]
+current_position:Vector deltaX:2.610356990353173, deltaY:0.5126625112626022, length:2.660223010865772, direction:[0.9812549473074552, 0.19271411049698262]
+attractive : Vector deltaX:-5.25823909118213, deltaY:8.505934496571445, length:10.0, direction:[-0.525823909118213, 0.8505934496571446]
+t_vec length:1.6520207955698605, distance2obstacle:1.1607630991460982
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118213, deltaY:8.505934496571445, length:10.0, direction:[-0.525823909118213, 0.8505934496571446]
+current_position:Vector deltaX:2.605098751261991, deltaY:0.5211684457591736, length:2.6567190390934865, direction:[0.9805699108291448, 0.19616995176765262]
+attractive : Vector deltaX:-5.258239091182131, deltaY:8.505934496571445, length:10.0, direction:[-0.5258239091182131, 0.8505934496571446]
+t_vec length:1.6428696484582206, distance2obstacle:1.1507630991460982
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182131, deltaY:8.505934496571445, length:10.0, direction:[-0.5258239091182131, 0.8505934496571446]
+current_position:Vector deltaX:2.5998405121708092, deltaY:0.5296743802557451, length:2.6532481297126895, direction:[0.9798708545409721, 0.19963243328964547]
+attractive : Vector deltaX:-5.258239091182132, deltaY:8.505934496571445, length:10.000000000000002, direction:[-0.5258239091182131, 0.8505934496571443]
+t_vec length:1.6337284519329396, distance2obstacle:1.1407630991460984
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182132, deltaY:8.505934496571445, length:10.000000000000002, direction:[-0.5258239091182131, 0.8505934496571443]
+current_position:Vector deltaX:2.5945822730796273, deltaY:0.5381803147523165, length:2.6498104126457704, direction:[0.9791577015085395, 0.2031014415914219]
+attractive : Vector deltaX:-5.2582390911821335, deltaY:8.505934496571445, length:10.000000000000002, direction:[-0.5258239091182133, 0.8505934496571443]
+t_vec length:1.6245973739622879, distance2obstacle:1.1307630991460984
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821335, deltaY:8.505934496571445, length:10.000000000000002, direction:[-0.5258239091182133, 0.8505934496571443]
+current_position:Vector deltaX:2.5893240339884454, deltaY:0.546686249248888, length:2.646406017244522, direction:[0.9784303758062373, 0.20657686148178653]
+attractive : Vector deltaX:-5.258239091182134, deltaY:8.505934496571442, length:9.999999999999998, direction:[-0.5258239091182135, 0.8505934496571443]
+t_vec length:1.6154765861240838, distance2obstacle:1.1207630991460986
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182134, deltaY:8.505934496571442, length:9.999999999999998, direction:[-0.5258239091182135, 0.8505934496571443]
+current_position:Vector deltaX:2.5840657948972634, deltaY:0.5551921837454594, length:2.64303507227015, direction:[0.9776888025469004, 0.21005857605536613]
+attractive : Vector deltaX:-5.258239091182135, deltaY:8.505934496571442, length:10.0, direction:[-0.5258239091182135, 0.8505934496571441]
+t_vec length:1.606366263697382, distance2obstacle:1.1107630991460986
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182135, deltaY:8.505934496571442, length:10.0, direction:[-0.5258239091182135, 0.8505934496571441]
+current_position:Vector deltaX:2.5788075558060815, deltaY:0.5636981182420309, length:2.6396977058731825, direction:[0.9769329079115294, 0.21354646669875627]
+attractive : Vector deltaX:-5.258239091182136, deltaY:8.505934496571442, length:10.0, direction:[-0.5258239091182136, 0.8505934496571441]
+t_vec length:1.5972665857567576, distance2obstacle:1.1007630991460988
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182136, deltaY:8.505934496571442, length:10.0, direction:[-0.5258239091182136, 0.8505934496571441]
+current_position:Vector deltaX:2.5735493167148995, deltaY:0.5722040527386023, length:2.636394045573273, direction:[0.9761626191790659, 0.21704041309734445]
+attractive : Vector deltaX:-5.258239091182139, deltaY:8.505934496571442, length:10.000000000000002, direction:[-0.5258239091182138, 0.850593449657144]
+t_vec length:1.5881777352692652, distance2obstacle:1.0907630991460988
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182139, deltaY:8.505934496571442, length:10.000000000000002, direction:[-0.5258239091182138, 0.850593449657144]
+current_position:Vector deltaX:2.5682910776237176, deltaY:0.5807099872351738, length:2.63312421823891, direction:[0.9753778647562042, 0.2205402932428175]
+attractive : Vector deltaX:-5.258239091182139, deltaY:8.505934496571438, length:9.999999999999998, direction:[-0.525823909118214, 0.850593449657144]
+t_vec length:1.5790998991941498, distance2obstacle:1.080763099146099
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182139, deltaY:8.505934496571438, length:9.999999999999998, direction:[-0.525823909118214, 0.850593449657144]
+current_position:Vector deltaX:2.5630328385325356, deltaY:0.5892159217317452, length:2.6298883500670396, direction:[0.9745785742072284, 0.22404598344135987]
+attractive : Vector deltaX:-5.258239091182141, deltaY:8.505934496571438, length:10.0, direction:[-0.5258239091182141, 0.8505934496571438]
+t_vec length:1.5700332685853942, distance2obstacle:1.070763099146099
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182141, deltaY:8.505934496571438, length:10.0, direction:[-0.5258239091182141, 0.8505934496571438]
+current_position:Vector deltaX:2.5577745994413537, deltaY:0.5977218562283166, length:2.6266865665625962, direction:[0.9737646782838563, 0.22755735832255128]
+attractive : Vector deltaX:-5.258239091182142, deltaY:8.505934496571438, length:10.0, direction:[-0.5258239091182142, 0.8505934496571438]
+t_vec length:1.5609780386971814, distance2obstacle:1.0607630991460992
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182142, deltaY:8.505934496571438, length:10.0, direction:[-0.5258239091182142, 0.8505934496571438]
+current_position:Vector deltaX:2.5525163603501717, deltaY:0.6062277907248881, length:2.6235189925179627, direction:[0.9729361089550775, 0.23107429084896833]
+attractive : Vector deltaX:-5.258239091182143, deltaY:8.505934496571438, length:10.0, direction:[-0.5258239091182143, 0.8505934496571438]
+t_vec length:1.551934409092363, distance2obstacle:1.0507630991460992
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182143, deltaY:8.505934496571438, length:10.0, direction:[-0.5258239091182143, 0.8505934496571438]
+current_position:Vector deltaX:2.5472581212589898, deltaY:0.6147337252214595, length:2.6203857519923535, direction:[0.9720927994369674, 0.23459665232649815]
+attractive : Vector deltaX:-5.258239091182144, deltaY:8.505934496571436, length:10.0, direction:[-0.5258239091182144, 0.8505934496571437]
+t_vec length:1.5429025837540178, distance2obstacle:1.0407630991460994
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182144, deltaY:8.505934496571436, length:10.0, direction:[-0.5258239091182144, 0.8505934496571437]
+current_position:Vector deltaX:2.541999882167808, deltaY:0.623239659718031, length:2.617286968291134, direction:[0.9712346842224633, 0.23812431241536863]
+attractive : Vector deltaX:-5.258239091182146, deltaY:8.505934496571436, length:10.0, direction:[-0.5258239091182146, 0.8505934496571437]
+t_vec length:1.533882771200194, distance2obstacle:1.0307630991460994
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182146, deltaY:8.505934496571436, length:10.0, direction:[-0.5258239091182146, 0.8505934496571437]
+current_position:Vector deltaX:2.536741643076626, deltaY:0.6317455942146024, length:2.6142227639450812, direction:[0.9703616991110849, 0.24165713914190134]
+attractive : Vector deltaX:-5.258239091182146, deltaY:8.505934496571435, length:10.0, direction:[-0.5258239091182146, 0.8505934496571435]
+t_vec length:1.524875184601923, distance2obstacle:1.0207630991460996
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182146, deltaY:8.505934496571435, length:10.0, direction:[-0.5258239091182146, 0.8505934496571435]
+current_position:Vector deltaX:2.531483403985444, deltaY:0.6402515287111739, length:2.6111932606895882, direction:[0.9694737812385844, 0.24519499891099222]
+attractive : Vector deltaX:-5.258239091182149, deltaY:8.505934496571435, length:10.0, direction:[-0.5258239091182149, 0.8505934496571435]
+t_vec length:1.5158800419046063, distance2obstacle:1.0107630991460996
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182149, deltaY:8.505934496571435, length:10.0, direction:[-0.5258239091182149, 0.8505934496571435]
+current_position:Vector deltaX:2.526225164894262, deltaY:0.6487574632077453, length:2.6081985794438256, direction:[0.9685708691065066, 0.24873775651932412]
+attractive : Vector deltaX:-5.2582390911821495, deltaY:8.505934496571433, length:10.0, direction:[-0.525823909118215, 0.8505934496571432]
+t_vec length:1.5068975659528667, distance2obstacle:1.0007630991460998
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821495, deltaY:8.505934496571433, length:10.0, direction:[-0.525823909118215, 0.8505934496571432]
+current_position:Vector deltaX:2.52096692580308, deltaY:0.6572633977043167, length:2.60523884028986, direction:[0.9676529026116455, 0.2522852751693159]
+attractive : Vector deltaX:-5.258239091182152, deltaY:8.505934496571433, length:10.000000000000002, direction:[-0.5258239091182151, 0.8505934496571431]
+t_vec length:1.4979279846189655, distance2obstacle:0.9907630991460998
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182152, deltaY:8.505934496571433, length:10.000000000000002, direction:[-0.5258239091182151, 0.8505934496571431]
+current_position:Vector deltaX:2.515708686711898, deltaY:0.6657693322008882, length:2.6023141624517434, direction:[0.9667198230753773, 0.25583741648381164]
+attractive : Vector deltaX:-5.258239091182153, deltaY:8.505934496571431, length:10.0, direction:[-0.5258239091182153, 0.8505934496571431]
+t_vec length:1.488971530934893, distance2obstacle:0.9807630991460999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182153, deltaY:8.505934496571431, length:10.0, direction:[-0.5258239091182153, 0.8505934496571431]
+current_position:Vector deltaX:2.510450447620716, deltaY:0.6742752666974596, length:2.5994246642745744, direction:[0.965771573272854, 0.25939404052151316]
+attractive : Vector deltaX:-5.258239091182155, deltaY:8.505934496571431, length:10.000000000000002, direction:[-0.5258239091182154, 0.8505934496571429]
+t_vec length:1.4800284432282242, distance2obstacle:0.9707630991461
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182155, deltaY:8.505934496571431, length:10.000000000000002, direction:[-0.5258239091182154, 0.8505934496571429]
+current_position:Vector deltaX:2.505192208529534, deltaY:0.6827812011940311, length:2.5965704632035407, direction:[0.9648080974620393, 0.2629550057931584]
+attractive : Vector deltaX:-5.258239091182157, deltaY:8.50593449657143, length:10.0, direction:[-0.5258239091182156, 0.8505934496571429]
+t_vec length:1.4710989652618627, distance2obstacle:0.9607630991461001
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182157, deltaY:8.50593449657143, length:10.0, direction:[-0.5258239091182156, 0.8505934496571429]
+current_position:Vector deltaX:2.499933969438352, deltaY:0.6912871356906025, length:2.5937516757629506, direction:[0.9638293414125692, 0.26652016927844907]
+attractive : Vector deltaX:-5.258239091182158, deltaY:8.505934496571427, length:10.0, direction:[-0.5258239091182159, 0.8505934496571428]
+t_vec length:1.4621833463777674, distance2obstacle:0.9507630991461002
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182158, deltaY:8.505934496571427, length:10.0, direction:[-0.5258239091182159, 0.8505934496571428]
+current_position:Vector deltaX:2.4946757303471703, deltaY:0.699793070187174, length:2.5909684175352616, direction:[0.9628352524344188, 0.2700893864437273]
+attractive : Vector deltaX:-5.25823909118216, deltaY:8.505934496571427, length:10.0, direction:[-0.525823909118216, 0.8505934496571428]
+t_vec length:1.4532818416447815, distance2obstacle:0.9407630991461003
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118216, deltaY:8.505934496571427, length:10.0, direction:[-0.525823909118216, 0.8505934496571428]
+current_position:Vector deltaX:2.4894174912559883, deltaY:0.7082990046837454, length:2.5882208031401115, direction:[0.9618257794063583, 0.2736625112604051]
+attractive : Vector deltaX:-5.258239091182162, deltaY:8.505934496571426, length:10.0, direction:[-0.5258239091182162, 0.8505934496571426]
+t_vec length:1.4443947120106784, distance2obstacle:0.9307630991461004
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182162, deltaY:8.505934496571426, length:10.0, direction:[-0.5258239091182162, 0.8505934496571426]
+current_position:Vector deltaX:2.4841592521648064, deltaY:0.7168049391803168, length:2.585508946213358, direction:[0.9608008728041787, 0.27723939622414506]
+attractive : Vector deltaX:-5.258239091182163, deltaY:8.505934496571424, length:9.999999999999998, direction:[-0.5258239091182164, 0.8505934496571426]
+t_vec length:1.4355222244585324, distance2obstacle:0.9207630991461005
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182163, deltaY:8.505934496571424, length:9.999999999999998, direction:[-0.5258239091182164, 0.8505934496571426]
+current_position:Vector deltaX:2.4789010130736244, deltaY:0.7253108736768883, length:2.5828329593861414, direction:[0.9597604847286685, 0.28081989237479454]
+attractive : Vector deltaX:-5.2582390911821655, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182165, 0.8505934496571423]
+t_vec length:1.4266646521675426, distance2obstacle:0.9107630991461007
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821655, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182165, 0.8505934496571423]
+current_position:Vector deltaX:2.4736427739824425, deltaY:0.7338168081734597, length:2.5801929542639708, direction:[0.958704568933325, 0.2844038493170714]
+attractive : Vector deltaX:-5.258239091182166, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182166, 0.8505934496571422]
+t_vec length:1.417822274678423, distance2obstacle:0.9007630991461008
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182166, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182166, 0.8505934496571422]
+current_position:Vector deltaX:2.4683845348912605, deltaY:0.7423227426700312, length:2.5775890414058447, direction:[0.9576330808517781, 0.28799111524200166]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+t_vec length:1.408995378063484, distance2obstacle:0.8907630991461009
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+current_position:Vector deltaX:2.4631262958000786, deltaY:0.7508286771666026, length:2.5750213303034144, direction:[0.9565459776249111, 0.2915815369491066]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+t_vec length:1.4001842551015287, distance2obstacle:0.880763099146101
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+current_position:Vector deltaX:2.4578680567088966, deltaY:0.7593346116631741, length:2.5724899293601973, direction:[0.9554432181276573, 0.29517495986933867]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:1.391389205457691, distance2obstacle:0.8707630991461011
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.4526098176177142, deltaY:0.7678405461597455, length:2.569994945870846, direction:[0.9543247629954558, 0.29877122808876255]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:1.382610535868343, distance2obstacle:0.8607630991461009
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.447351578526532, deltaY:0.776346480656317, length:2.5675364860004923, direction:[0.9531905746503431, 0.302370184372978]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+t_vec length:1.3738485603311987, distance2obstacle:0.8507630991461008
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+current_position:Vector deltaX:2.44209333943535, deltaY:0.7848524151528884, length:2.5651146547641535, direction:[0.9520406173266689, 0.3059716701922826]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:1.36510360030075, distance2obstacle:0.8407630991461009
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.436835100344168, deltaY:0.7933583496494598, length:2.5627295560062295, direction:[0.9508748570964093, 0.3095755257475679]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.3563759848891577, distance2obstacle:0.8307630991461009
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.4315768612529856, deltaY:0.8018642841460313, length:2.5603812923800917, direction:[0.9496932618940629, 0.3131815899969455]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:1.3476660510727403, distance2obstacle:0.8207630991461008
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.426318622161803, deltaY:0.8103702186426027, length:2.5580699653277685, direction:[0.9484958015411107, 0.3167897006830965]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.3389741439041887, distance2obstacle:0.8107630991461007
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.421060383070621, deltaY:0.8188761531391742, length:2.555795675059741, direction:[0.9472824477700197, 0.3203996943613394]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:1.3303006167306384, distance2obstacle:0.8007630991461008
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.415802143979439, deltaY:0.8273820876357456, length:2.553558520534851, direction:[0.9460531742477715, 0.3240114064284095]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.321645831417736, distance2obstacle:0.7907630991461007
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.410543904888257, deltaY:0.835888022132317, length:2.551358599440346, direction:[0.944807956598897, 0.32762467115193983]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:1.313010158579834, distance2obstacle:0.7807630991461008
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.4052856657970745, deltaY:0.8443939566288885, length:2.5491960081720406, direction:[0.9435467724280016, 0.331239321700641]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.3043939778164426, distance2obstacle:0.7707630991461006
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.4000274267058925, deltaY:0.8528998911254599, length:2.547070841814638, direction:[0.942269601341757, 0.33485519017516563]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.50593449657142, length:10.000000000000002, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:1.295797677955075, distance2obstacle:0.7607630991461006
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.50593449657142, length:10.000000000000002, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.39476918761471, deltaY:0.8614058256220314, length:2.5449831941221914, direction:[0.9409764249703454, 0.33847210763965185]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.2872216573006088, distance2obstacle:0.7507630991461006
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.389510948523528, deltaY:0.8699117601186028, length:2.5429331574987293, direction:[0.9396672269883375, 0.3420899041539347]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.278666323891299, distance2obstacle:0.7407630991461006
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.384252709432346, deltaY:0.8784176946151743, length:2.5409208229790474, direction:[0.938341993134985, 0.3457084088064155]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+t_vec length:1.2701320957615587, distance2obstacle:0.7307630991461005
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+current_position:Vector deltaX:2.378994470341164, deltaY:0.8869236291117457, length:2.5389462802096827, direction:[0.9370007112339104, 0.34932744974757707]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.261619401211638, distance2obstacle:0.7207630991461006
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.3737362312499815, deltaY:0.8954295636083172, length:2.5370096174300656, direction:[0.9356433712121768, 0.35294685422413474]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+t_vec length:1.2531286790843041, distance2obstacle:0.7107630991461005
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+current_position:Vector deltaX:2.368477992158799, deltaY:0.9039354981048886, length:2.535110921453874, direction:[0.9342699651187208, 0.35656644861380893]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+t_vec length:1.2446603790486521, distance2obstacle:0.7007630991461004
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+current_position:Vector deltaX:2.363219753067617, deltaY:0.91244143260146, length:2.5332502776505867, direction:[0.9328804871421307, 0.3601860584607084]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+t_vec length:1.2362149618911336, distance2obstacle:0.6907630991461005
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+current_position:Vector deltaX:2.357961513976435, deltaY:0.9209473670980315, length:2.5314277699272476, direction:[0.9314749336277536, 0.3638055085113091]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.2277928998139138, distance2obstacle:0.6807630991461006
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.3527032748852528, deltaY:0.9294533015946029, length:2.529643480710454, direction:[0.9300533030941153, 0.36742462275101495]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:1.2193946767406445, distance2obstacle:0.6707630991461003
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.3474450357940704, deltaY:0.9379592360911744, length:2.527897490928571, direction:[0.9286155962486378, 0.37104322444128635]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+t_vec length:1.2110207886297337, distance2obstacle:0.6607630991461003
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+current_position:Vector deltaX:2.3421867967028884, deltaY:0.9464651705877458, length:2.5261898799941838, direction:[0.9271618160026359, 0.37466113615732044]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:1.2026717437951822, distance2obstacle:0.6507630991461003
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.336928557611706, deltaY:0.9549711050843173, length:2.524520725786796, direction:[0.925691967485581, 0.37827817982626766]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.194348063235046, distance2obstacle:0.6407630991461002
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.331670318520524, deltaY:0.9634770395808887, length:2.5228901046357834, direction:[0.924206058058615, 0.3818941767659677]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:1.1860502809675768, distance2obstacle:0.6307630991461003
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.3264120794293417, deltaY:0.9719829740774601, length:2.521298091303608, direction:[0.9227040973273006, 0.385508947724189]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.1777789443750595, distance2obstacle:0.6207630991461002
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.3211538403381597, deltaY:0.9804889085740316, length:2.5197447589693054, direction:[0.9211860971535948, 0.38912231291835203]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.169534614555376, distance2obstacle:0.6107630991461003
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.3158956012469774, deltaY:0.988994843070603, length:2.518230179212247, direction:[0.9196520716670293, 0.39273409207572146]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.1613178666812773, distance2obstacle:0.6007630991461002
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.3106373621557954, deltaY:0.9975007775671745, length:2.516754421996197, direction:[0.9181020372750882, 0.39634410447404467]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.1531292903673531, distance2obstacle:0.5907630991461003
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.305379123064613, deltaY:1.006006712063746, length:2.515317555653654, direction:[0.916536012672768, 0.39995216898262204]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.1449694900446374, distance2obstacle:0.5807630991461001
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.300120883973431, deltaY:1.0145126465603174, length:2.5139196468705074, direction:[0.9149540188513077, 0.4035581041037845]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.1368390853427937, distance2obstacle:0.5707630991461002
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.2948626448822487, deltaY:1.0230185810568888, length:2.512560760670993, direction:[0.9133560791060803, 0.40716172801476297]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182171, 0.850593449657142]
+t_vec length:1.1287387114797651, distance2obstacle:0.5607630991461001
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182171, 0.850593449657142]
+current_position:Vector deltaX:2.2896044057910667, deltaY:1.0315245155534603, length:2.5112409604029766, direction:[0.9117422190436301, 0.41076285860992506]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571417, length:9.999999999999998, direction:[-0.5258239091182173, 0.8505934496571418]
+t_vec length:1.1206690196587765, distance2obstacle:0.5507630991461002
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571417, length:9.999999999999998, direction:[-0.5258239091182173, 0.8505934496571418]
+current_position:Vector deltaX:2.2843461666998843, deltaY:1.0400304500500317, length:2.509960307723556, direction:[0.9101124665878499, 0.4143613135433612]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:1.1126306774725045, distance2obstacle:0.5407630991461001
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.505934496571419, length:9.999999999999998, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.2790879276087024, deltaY:1.0485363845466031, length:2.508718862585003, direction:[0.908466851985285, 0.4179569102717964]
+attractive : Vector deltaX:-5.258239091182174, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182174, 0.8505934496571419]
+t_vec length:1.104624369314242, distance2obstacle:0.5307630991461001
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182174, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182174, 0.8505934496571419]
+current_position:Vector deltaX:2.27382968851752, deltaY:1.0570423190431746, length:2.507516683221042, direction:[0.9068054078095552, 0.42154946609780725]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:1.0966507967957932, distance2obstacle:0.5207630991461
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.2685714494263376, deltaY:1.065548253539746, length:2.5063538261334766, direction:[0.9051281689648891, 0.42513879821332135]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+t_vec length:1.0887106791718402, distance2obstacle:0.5107630991460999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+current_position:Vector deltaX:2.2633132103351556, deltaY:1.0740541880363175, length:2.5052303460791747, direction:[0.9034351726887578, 0.4287247237433764]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:1.0808047537704357, distance2obstacle:0.5007630991461
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.2580549712439733, deltaY:1.082560122532889, length:2.5041462960574097, direction:[0.9017264585536042, 0.4323070597901163]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.0729337764292508, distance2obstacle:0.4907630991460998
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.2527967321527913, deltaY:1.0910660570294604, length:2.503101727297576, direction:[0.9000020684676602, 0.43588562347700033]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.0650985219371472, distance2obstacle:0.4807630991460999
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.247538493061609, deltaY:1.0995719915260318, length:2.5020966892472747, direction:[0.8982620466748443, 0.4394602319932027]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.0572997844805687, distance2obstacle:0.47076309914609976
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.242280253970427, deltaY:1.1080779260226032, length:2.5011312295607833, direction:[0.896506439753738, 0.44303070263817773]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:1.0495383780942074, distance2obstacle:0.46076309914609986
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.2370220148792446, deltaY:1.1165838605191747, length:2.5002053940879136, direction:[0.8947352966156288, 0.446596852866366]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:1.0418151371153046, distance2obstacle:0.45076309914609974
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.2317637757880626, deltaY:1.1250897950157461, length:2.49931922686326, direction:[0.8929486685016265, 0.45015850033201893]
+attractive : Vector deltaX:-5.258239091182174, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182174, 0.8505934496571419]
+t_vec length:1.0341309166408976, distance2obstacle:0.4407630991460998
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182174, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182174, 0.8505934496571419]
+current_position:Vector deltaX:2.2265055366968802, deltaY:1.1335957295123176, length:2.4984727700958493, direction:[0.891146608978838, 0.45371546293411447]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+t_vec length:1.0264865929872171, distance2obstacle:0.43076309914609967
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+current_position:Vector deltaX:2.2212472976056983, deltaY:1.142101664008889, length:2.4976660641591963, direction:[0.8893291739356075, 0.4572675588613409]
+attractive : Vector deltaX:-5.258239091182174, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182174, 0.8505934496571419]
+t_vec length:1.0188830641503797, distance2obstacle:0.4207630991460998
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182174, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182174, 0.8505934496571419]
+current_position:Vector deltaX:2.215989058514516, deltaY:1.1506075985054605, length:2.496899147581767, direction:[0.887496421575813, 0.46081460663712337]
+attractive : Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+t_vec length:1.0113212502674056, distance2obstacle:0.41076309914609965
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182171, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182171, 0.850593449657142]
+current_position:Vector deltaX:2.2107308194233335, deltaY:1.159113533002032, length:2.496172057037859, direction:[0.8856484124122234, 0.4643564251646664]
+attractive : Vector deltaX:-5.258239091182166, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182166, 0.8505934496571422]
+t_vec length:1.0038020940765116, distance2obstacle:0.40076309914609953
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182166, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182166, 0.8505934496571422]
+current_position:Vector deltaX:2.2054725803321515, deltaY:1.1676194674986033, length:2.4954848273389043, direction:[0.8837852092589112, 0.4678928337719893]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:0.9963265613755121, distance2obstacle:0.3907630991460996
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.200214341240969, deltaY:1.1761254019951748, length:2.4948374914251916, direction:[0.8819068772227255, 0.47142365225692745]
+attractive : Vector deltaX:-5.258239091182167, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182167, 0.8505934496571422]
+t_vec length:0.9888956414770537, distance2obstacle:0.38076309914609946
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182167, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182167, 0.8505934496571422]
+current_position:Vector deltaX:2.194956102149787, deltaY:1.1846313364917462, length:2.4942300803580264, direction:[0.8800134836938215, 0.47494870093207364]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:0.9815103476592979, distance2obstacle:0.37076309914609956
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.189697863058605, deltaY:1.1931372709883177, length:2.493662623312318, direction:[0.8781050983352519, 0.4784678006696352]
+attractive : Vector deltaX:-5.258239091182167, deltaY:8.50593449657142, length:9.999999999999998, direction:[-0.5258239091182169, 0.8505934496571422]
+t_vec length:0.9741717176105233, distance2obstacle:0.36076309914609944
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182167, deltaY:8.50593449657142, length:9.999999999999998, direction:[-0.5258239091182169, 0.8505934496571422]
+current_position:Vector deltaX:2.184439623967423, deltaY:1.2016432054848891, length:2.4931351475696086, direction:[0.8761817930716221, 0.48198077294618025]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:0.9668808138660109, distance2obstacle:0.35076309914609954
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.1791813848762405, deltaY:1.2101491399814606, length:2.492647678511546, direction:[0.8742436420768105, 0.48548743988724724]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182169, 0.8505934496571422]
+t_vec length:0.9596387242354079, distance2obstacle:0.34076309914609937
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182169, 0.8505934496571422]
+current_position:Vector deltaX:2.1739231457850585, deltaY:1.218655074478032, length:2.492200239613796, direction:[0.8722907217607606, 0.48898762431179327]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:0.9524465622186493, distance2obstacle:0.33076309914609947
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.168664906693876, deltaY:1.2271610089746035, length:2.4917928524404123, direction:[0.8703231107553459, 0.4924811497764537]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+t_vec length:0.9453054674083319, distance2obstacle:0.32076309914609935
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+current_position:Vector deltaX:2.163406667602694, deltaY:1.235666943471175, length:2.491425536638651, direction:[0.8683408898993189, 0.49596784061959]
+attractive : Vector deltaX:-5.258239091182175, deltaY:8.505934496571419, length:10.000000000000002, direction:[-0.5258239091182174, 0.8505934496571417]
+t_vec length:0.9382166058763014, distance2obstacle:0.3107630991460994
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182175, deltaY:8.505934496571419, length:10.000000000000002, direction:[-0.5258239091182174, 0.8505934496571417]
+current_position:Vector deltaX:2.158148428511512, deltaY:1.2441728779677463, length:2.4910983099342454, direction:[0.8663441422223428, 0.49944752200509795]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+t_vec length:0.9311811705420211, distance2obstacle:0.30076309914609933
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182169, 0.850593449657142]
+current_position:Vector deltaX:2.15289018942033, deltaY:1.2526788124643178, length:2.4908111881271364, direction:[0.8643329529281212, 0.5029200199659527]
+attractive : Vector deltaX:-5.258239091182175, deltaY:8.505934496571419, length:10.000000000000002, direction:[-0.5258239091182174, 0.8505934496571417]
+t_vec length:0.9242003815201393, distance2obstacle:0.2907630991460994
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182175, deltaY:8.505934496571419, length:10.000000000000002, direction:[-0.5258239091182174, 0.8505934496571417]
+current_position:Vector deltaX:2.1476319503291474, deltaY:1.2611847469608892, length:2.490564185087664, direction:[0.8623074093766245, 0.5063851614474644]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:0.9172754864444664, distance2obstacle:0.28076309914609926
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.1423737112379655, deltaY:1.2696906814574607, length:2.490357312753221, direction:[0.8602676010654305, 0.50984277435022]
+attractive : Vector deltaX:-5.258239091182176, deltaY:8.505934496571417, length:10.0, direction:[-0.5258239091182176, 0.8505934496571417]
+t_vec length:0.9104077607654136, distance2obstacle:0.27076309914609936
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182176, deltaY:8.505934496571417, length:10.0, direction:[-0.5258239091182176, 0.8505934496571417]
+current_position:Vector deltaX:2.137115472146783, deltaY:1.2781966159540321, length:2.4901905811253697, direction:[0.8582136196101808, 0.513292687572687]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:0.9035985080177237, distance2obstacle:0.26076309914609924
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.131857233055601, deltaY:1.2867025504506036, length:2.4900639982674284, direction:[0.8561455587241672, 0.5167347310534522]
+attractive : Vector deltaX:-5.258239091182176, deltaY:8.505934496571415, length:9.999999999999998, direction:[-0.5258239091182177, 0.8505934496571417]
+t_vec length:0.896849060055157, distance2obstacle:0.25076309914609934
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182176, deltaY:8.505934496571415, length:9.999999999999998, direction:[-0.5258239091182177, 0.8505934496571417]
+current_position:Vector deltaX:2.1265989939644188, deltaY:1.295208484947175, length:2.4899775703025187, direction:[0.8540635141970571, 0.5201687358130758]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:0.890160777248571, distance2obstacle:0.24076309914609917
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.1213407548732364, deltaY:1.3037144194437464, length:2.4899313014120885, direction:[0.8519675838727689, 0.5235945339955301]
+attractive : Vector deltaX:-5.2582390911821655, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182165, 0.8505934496571423]
+t_vec length:0.8835350486436526, distance2obstacle:0.23076309914609905
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821655, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182165, 0.8505934496571423]
+current_position:Vector deltaX:2.1160825157820544, deltaY:1.3122203539403179, length:2.4899251938348996, direction:[0.8498578676265108, 0.5270119589092072]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+t_vec length:0.8769732920743389, distance2obstacle:0.22076309914609915
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182172, 0.8505934496571419]
+current_position:Vector deltaX:2.110824276690872, deltaY:1.3207262884368893, length:2.4899592478664836, direction:[0.8477344673409926, 0.5304208450674648]
+attractive : Vector deltaX:-5.2582390911821655, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182165, 0.8505934496571423]
+t_vec length:0.8704769542277758, distance2obstacle:0.210763099146099
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821655, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182165, 0.8505934496571423]
+current_position:Vector deltaX:2.10556603759969, deltaY:1.3292322229334608, length:2.490033461859075, direction:[0.8455974868818272, 0.5338210282286919]
+attractive : Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+t_vec length:0.8640475106564612, distance2obstacle:0.2007630991460991
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182173, deltaY:8.505934496571419, length:10.0, direction:[-0.5258239091182173, 0.8505934496571419]
+current_position:Vector deltaX:2.1003077985085077, deltaY:1.3377381574300322, length:2.4901478322220054, direction:[0.8434470320721336, 0.5372123454358706]
+attractive : Vector deltaX:-5.258239091182166, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182166, 0.8505934496571423]
+t_vec length:0.8576864657330142, distance2obstacle:0.19076309914609896
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182166, deltaY:8.505934496571424, length:10.0, direction:[-0.5258239091182166, 0.8505934496571423]
+current_position:Vector deltaX:2.0950495594173257, deltaY:1.3462440919266037, length:2.490302353422575, direction:[0.8412832106663558, 0.54059463505561]
+attractive : Vector deltaX:-5.258239091182175, deltaY:8.505934496571419, length:10.000000000000002, direction:[-0.5258239091182174, 0.8505934496571417]
+t_vec length:0.8513953525428427, distance2obstacle:0.18076309914609906
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182175, deltaY:8.505934496571419, length:10.000000000000002, direction:[-0.5258239091182174, 0.8505934496571417]
+current_position:Vector deltaX:2.0897913203261433, deltaY:1.354750026423175, length:2.4904970179873893, direction:[0.8391061323233132, 0.5439677368166337]
+attractive : Vector deltaX:-5.258239091182166, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182166, 0.8505934496571422]
+t_vec length:0.8451757327097796, distance2obstacle:0.17076309914609894
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182166, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182166, 0.8505934496571422]
+current_position:Vector deltaX:2.0845330812349614, deltaY:1.3632559609197465, length:2.4907318165041663, direction:[0.8369159085784997, 0.5473314918476958]
+attractive : Vector deltaX:-5.258239091182178, deltaY:8.505934496571417, length:10.000000000000002, direction:[-0.5258239091182177, 0.8505934496571416]
+t_vec length:0.8390291961496186, distance2obstacle:0.16076309914609901
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182178, deltaY:8.505934496571417, length:10.000000000000002, direction:[-0.5258239091182177, 0.8505934496571416]
+current_position:Vector deltaX:2.079274842143779, deltaY:1.371761895416318, length:2.4910067376240086, direction:[0.834712652815644, 0.5506857427149083]
+attractive : Vector deltaX:-5.258239091182167, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182167, 0.8505934496571422]
+t_vec length:0.832957360746297, distance2obstacle:0.1507630991460989
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182167, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182167, 0.8505934496571422]
+current_position:Vector deltaX:2.074016603052597, deltaY:1.3802678299128894, length:2.4913217680641475, direction:[0.8324964802375517, 0.5540303334584559]
+attractive : Vector deltaX:-5.25823909118218, deltaY:8.505934496571415, length:10.0, direction:[-0.525823909118218, 0.8505934496571415]
+t_vec length:0.8269618719453752, distance2obstacle:0.14076309914609897
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118218, deltaY:8.505934496571415, length:10.0, direction:[-0.525823909118218, 0.8505934496571415]
+current_position:Vector deltaX:2.0687583639614147, deltaY:1.3887737644094609, length:2.4916768926111454, direction:[0.8302675078362449, 0.5573651096286805]
+attractive : Vector deltaX:-5.258239091182169, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182169, 0.8505934496571422]
+t_vec length:0.8210444022593179, distance2obstacle:0.13076309914609885
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182169, deltaY:8.505934496571422, length:10.0, direction:[-0.5258239091182169, 0.8505934496571422]
+current_position:Vector deltaX:2.0635001248702327, deltaY:1.3972796989060323, length:2.4920720941245658, direction:[0.8280258543624176, 0.560689918321516]
+attractive : Vector deltaX:-5.2582390911821815, deltaY:8.505934496571413, length:10.0, direction:[-0.5258239091182182, 0.8505934496571413]
+t_vec length:0.8152066506790305, distance2obstacle:0.12076309914609895
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.2582390911821815, deltaY:8.505934496571413, length:10.0, direction:[-0.5258239091182182, 0.8505934496571413]
+current_position:Vector deltaX:2.0582418857790503, deltaY:1.4057856334026038, length:2.4925073535411006, direction:[0.8257716402942241, 0.5640046082132543]
+attractive : Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+t_vec length:0.8094503419860197, distance2obstacle:0.11076309914609882
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.25823909118217, deltaY:8.50593449657142, length:10.0, direction:[-0.525823909118217, 0.850593449657142]
+current_position:Vector deltaX:2.0529836466878684, deltaY:1.4142915678991752, length:2.492982649879161, direction:[0.8235049878054225, 0.5673090295946216]
+attractive : Vector deltaX:-5.258239091182187, deltaY:8.505934496571411, length:10.0, direction:[-0.5258239091182186, 0.8505934496571411]
+t_vec length:0.8037772259595607, distance2obstacle:0.1007630991460989
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182187, deltaY:8.505934496571411, length:10.0, direction:[-0.5258239091182186, 0.8505934496571411]
+current_position:Vector deltaX:2.047725407596686, deltaY:1.4227975023957466, length:2.4934979602439196, direction:[0.8212260207328875, 0.570603034404153]
+attractive : Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+t_vec length:0.7981890764732428, distance2obstacle:0.09076309914609877
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182172, deltaY:8.50593449657142, length:10.0, direction:[-0.5258239091182172, 0.850593449657142]
+current_position:Vector deltaX:2.0424671685055036, deltaY:1.431303436892318, length:2.494053259832807, direction:[0.8189348645435197, 0.573886476260843]
+attractive : Vector deltaX:-5.258239091182153, deltaY:8.505934496571431, length:10.0, direction:[-0.5258239091182153, 0.8505934496571431]
+t_vec length:0.7926876904753661, distance2obstacle:0.08076309914609864
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182153, deltaY:8.505934496571431, length:10.0, direction:[-0.5258239091182153, 0.8505934496571431]
+current_position:Vector deltaX:2.0372089294143216, deltaY:1.4398093713888895, length:2.494648521941461, direction:[0.8166316463005631, 0.5771592104960571]
+attractive : Vector deltaX:-5.258239091182174, deltaY:8.505934496571417, length:10.0, direction:[-0.5258239091182174, 0.8505934496571417]
+t_vec length:0.7872748868477465, distance2obstacle:0.07076309914609874
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182174, deltaY:8.505934496571417, length:10.0, direction:[-0.5258239091182174, 0.8505934496571417]
+current_position:Vector deltaX:2.0319506903231392, deltaY:1.448315305885461, length:2.4952837179701186, direction:[0.8143164946293583, 0.5804210941846913]
+attractive : Vector deltaX:-5.258239091182151, deltaY:8.505934496571433, length:10.0, direction:[-0.5258239091182151, 0.8505934496571432]
+t_vec length:0.7819525051376801, distance2obstacle:0.06076309914609859
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182151, deltaY:8.505934496571433, length:10.0, direction:[-0.5258239091182151, 0.8505934496571432]
+current_position:Vector deltaX:2.0266924512319573, deltaY:1.4568212403820324, length:2.4959588174304566, direction:[0.8119895396825496, 0.5836719861755584]
+attractive : Vector deltaX:-5.258239091182181, deltaY:8.505934496571413, length:9.999999999999998, direction:[-0.5258239091182182, 0.8505934496571415]
+t_vec length:0.7767224041580465, distance2obstacle:0.050763099146098695
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182181, deltaY:8.505934496571413, length:9.999999999999998, direction:[-0.5258239091182182, 0.8505934496571415]
+current_position:Vector deltaX:2.021434212140775, deltaY:1.4653271748786039, length:2.4966737879528647, direction:[0.8096509131047672, 0.5869117471209931]
+attractive : Vector deltaX:-5.258239091182146, deltaY:8.505934496571436, length:10.0, direction:[-0.5258239091182146, 0.8505934496571437]
+t_vec length:0.7715864604508151, distance2obstacle:0.040763099146098554
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182146, deltaY:8.505934496571436, length:10.0, direction:[-0.5258239091182146, 0.8505934496571437]
+current_position:Vector deltaX:2.016175973049593, deltaY:1.4738331093751753, length:2.4974285952941617, direction:[0.8073007479968075, 0.5901402395056579]
+attractive : Vector deltaX:-5.258239091182194, deltaY:8.505934496571406, length:10.0, direction:[-0.5258239091182194, 0.8505934496571406]
+t_vec length:0.766546566609609, distance2obstacle:0.030763099146098653
+repulsion: Vector deltaX:0, deltaY:0, length:0.0, direction:None
+combined velocity:Vector deltaX:-5.258239091182194, deltaY:8.505934496571406, length:10.0, direction:[-0.5258239091182194, 0.8505934496571406]
+current_position:Vector deltaX:2.0109177339584106, deltaY:1.4823390438717468, length:2.4982232033457366, direction:[0.8049391788793315, 0.5933573276745366]
+path plan success
